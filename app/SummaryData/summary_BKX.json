@@ -1,0 +1,2257 @@
+{
+    "summary": {
+        "general": {
+            "company": "Yongmao Holdings Ltd",
+            "price": 0.605,
+            "timestamp": "1724994000",
+            "gf_score": "61",
+            "rank_financial_strength": "5",
+            "rank_profitability": "6",
+            "rank_gf_value": "0",
+            "rank_growth": "6",
+            "rank_momentum": "8",
+            "supersector": "Sensitive",
+            "sector": "Industrials",
+            "group": "Farm & Heavy Construction Machinery",
+            "subindustry": "Farm & Heavy Construction Machinery",
+            "risk_assessment": "Moderate Risk: Sensitive, better choose undervalued stock",
+            "gf_valuation": "Modestly Overvalued",
+            "valuation_box_status": "Mixed Valued",
+            "desc": "Yongmao Holdings Ltd is involved in the design, development, and manufacture of a wide range of tower cranes, components, and accessories. The products are mainly sold to construction equipment distributors and equipment rental companies. Yongmao Holdings offers tower cranes with various lifting capacities that include the Topless STT series, ST series, Luffing STL series, and Derrick Q series. The business of the company is classified under geographical segments the People's Republic of China, Hong Kong and Macau, and Singapore. The People's Republic of China segment generates maximum revenue for the company which represents the manufacture and sale, with some rental and servicing of tower cranes and tower crane components and accessories in China.",
+            "short_desc": "Yongmao Holdings Ltd is engaged in manufacture and sale, with some rental and servicing of towercranes and towercrane components and accessories.",
+            "rating": "1",
+            "currency": "S$",
+            "country": "Singapore",
+            "percentage_of_13f_buys": "N/A for non-US stocks",
+            "percentage_of_13f_sells": "N/A for non-US stocks",
+            "percentage_of_13f_holds": "N/A for non-US stocks",
+            "percentage_of_mutual_fund_buys": 0,
+            "percentage_of_mutual_fund_sells": 0,
+            "percentage_of_mutual_fund_holds": 0,
+            "percentage_of_etf_buys": 0,
+            "percentage_of_etf_sells": 0,
+            "percentage_of_etf_holds": 0,
+            "percentage_of_premium_guru_buys": "N/A for non-US stocks",
+            "percentage_of_premium_guru_sells": "N/A for non-US stocks",
+            "percentage_of_premium_guru_holds": "N/A for non-US stocks",
+            "percentage_of_premiumplus_guru_buys": "N/A for non-US stocks",
+            "percentage_of_premiumplus_guru_sells": "N/A for non-US stocks",
+            "percentage_of_premiumplus_guru_holds": "N/A for non-US stocks"
+        },
+        "chart": {
+            "GF Value": "0.48",
+            "Earnings Power Value": "1.54",
+            "Net-Net Working Capital": "-0.84",
+            "Net Current Asset Value": "0.180",
+            "Tangible Book": "1.91",
+            "Projected FCF": "1.77",
+            "DCF (FCF Based)": "0.00",
+            "DCF (Earnings Based)": "0.00",
+            "Median P/S Value": "0.56",
+            "Graham Number": "1.98",
+            "Peter Lynch Value": "0.00"
+        },
+        "ratio": {
+            "Cash Ratio": {
+                "indu": {
+                    "global_rank": "138",
+                    "indu_med": "0.33",
+                    "indu_tot": "201"
+                },
+                "value": "0.17",
+                "status": 0,
+                "his": {
+                    "low": "0.13",
+                    "high": "0.26",
+                    "med": "0.22"
+                }
+            },
+            "Current Ratio": {
+                "indu": {
+                    "global_rank": "167",
+                    "indu_med": "1.74",
+                    "indu_tot": "210"
+                },
+                "value": "1.22",
+                "status": 0,
+                "his": {
+                    "low": "1.17",
+                    "high": "1.41",
+                    "med": "1.32"
+                }
+            },
+            "Quick Ratio": {
+                "indu": {
+                    "global_rank": "140",
+                    "indu_med": "1.05",
+                    "indu_tot": "209"
+                },
+                "value": "0.81",
+                "status": 0,
+                "his": {
+                    "low": "0.77",
+                    "high": "0.93",
+                    "med": "0.85"
+                }
+            },
+            "P/E(ttm)": {
+                "indu": {
+                    "global_rank": "24",
+                    "indu_med": "13.16",
+                    "indu_tot": "159"
+                },
+                "value": "6.65",
+                "status": 1,
+                "his": {
+                    "low": "2.14",
+                    "high": "83.33",
+                    "med": "6.13"
+                }
+            },
+            "F-Score": {
+                "indu": {
+                    "global_rank": "108",
+                    "indu_med": "6",
+                    "indu_tot": "208"
+                },
+                "value": "5",
+                "status": 0,
+                "his": {
+                    "low": "3",
+                    "high": "8",
+                    "med": "5"
+                }
+            },
+            "Forward P/E": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "10.8",
+                    "indu_tot": "99"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "PE(NRI)": {
+                "indu": {
+                    "global_rank": "23",
+                    "indu_med": "13.16",
+                    "indu_tot": "159"
+                },
+                "value": "6.65",
+                "status": 1,
+                "his": {
+                    "low": "2.14",
+                    "high": "75",
+                    "med": "6.14"
+                }
+            },
+            "P/B": {
+                "indu": {
+                    "global_rank": "7",
+                    "indu_med": "1.35",
+                    "indu_tot": "201"
+                },
+                "value": "0.31",
+                "status": 1,
+                "his": {
+                    "low": "0.18",
+                    "high": "0.86",
+                    "med": "0.38"
+                }
+            },
+            "P/S": {
+                "indu": {
+                    "global_rank": "38",
+                    "indu_med": "0.885",
+                    "indu_tot": "206"
+                },
+                "value": "0.36",
+                "status": 1,
+                "his": {
+                    "low": "0.15",
+                    "high": "0.69",
+                    "med": "0.34"
+                }
+            },
+            "PFCF": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "14.07",
+                    "indu_tot": "123"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "1.44",
+                    "high": "15.09",
+                    "med": "4.26"
+                }
+            },
+            "POCF": {
+                "indu": {
+                    "global_rank": "134",
+                    "indu_med": "10.62",
+                    "indu_tot": "153"
+                },
+                "value": "40.33",
+                "status": 1,
+                "his": {
+                    "low": "1.21",
+                    "high": "51.67",
+                    "med": "3.6"
+                }
+            },
+            "Price-to-Owner-Earnings": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "14.435",
+                    "indu_tot": "112"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "1.45",
+                    "high": "62",
+                    "med": "5.39"
+                }
+            },
+            "Days Inventory": {
+                "indu": {
+                    "global_rank": "176",
+                    "indu_med": "137.4",
+                    "indu_tot": "205"
+                },
+                "value": "269.71",
+                "status": 1,
+                "his": {
+                    "low": "189.01",
+                    "high": "323.6",
+                    "med": "218.91"
+                }
+            },
+            "Days Sales Outstanding": {
+                "indu": {
+                    "global_rank": "193",
+                    "indu_med": "73.95",
+                    "indu_tot": "209"
+                },
+                "value": "233.73",
+                "status": 1,
+                "his": {
+                    "low": "138.51",
+                    "high": "291.75",
+                    "med": "168.66"
+                }
+            },
+            "Days Payable": {
+                "indu": {
+                    "global_rank": "6",
+                    "indu_med": "71.98",
+                    "indu_tot": "205"
+                },
+                "value": "413.48",
+                "status": 0,
+                "his": {
+                    "low": "229.87",
+                    "high": "423.78",
+                    "med": "276.07"
+                }
+            },
+            "PEG": {
+                "indu": {
+                    "global_rank": "90",
+                    "indu_med": "0.75",
+                    "indu_tot": "99"
+                },
+                "value": "4.43",
+                "status": 1,
+                "his": {
+                    "low": "0.06",
+                    "high": "7.86",
+                    "med": "0.62"
+                }
+            },
+            "Shiller P/E": {
+                "indu": {
+                    "global_rank": "1",
+                    "indu_med": "19.79",
+                    "indu_tot": "131"
+                },
+                "value": "4.96",
+                "status": 1,
+                "his": {
+                    "low": "2.27",
+                    "high": "14.86",
+                    "med": "6.55"
+                }
+            },
+            "Earnings Yield (Greenblatt)": {
+                "indu": {
+                    "global_rank": "28",
+                    "indu_med": "7.655",
+                    "indu_tot": "210"
+                },
+                "value": "18.76",
+                "status": 0,
+                "his": {
+                    "low": "4.4",
+                    "high": "38.14",
+                    "med": "17.05"
+                }
+            },
+            "Forward Rate of Return (Yacktman)": {
+                "indu": {
+                    "global_rank": "100",
+                    "indu_med": "14.67",
+                    "indu_tot": "161"
+                },
+                "value": "7.8",
+                "status": 0,
+                "his": {
+                    "low": "-0.29",
+                    "high": "20.71",
+                    "med": "11.16"
+                }
+            },
+            "Cash to Debt": {
+                "indu": {
+                    "global_rank": "100",
+                    "indu_med": "0.55",
+                    "indu_tot": "207"
+                },
+                "value": "0.59",
+                "status": 0,
+                "his": {
+                    "low": "0.43",
+                    "high": "0.77",
+                    "med": "0.58"
+                }
+            },
+            "Equity to Asset": {
+                "indu": {
+                    "global_rank": "109",
+                    "indu_med": "0.47",
+                    "indu_tot": "210"
+                },
+                "value": "0.45",
+                "status": 0,
+                "his": {
+                    "low": "0.4",
+                    "high": "0.48",
+                    "med": "0.45"
+                }
+            },
+            "Debt-to-Equity": {
+                "indu": {
+                    "global_rank": "79",
+                    "indu_med": "0.38",
+                    "indu_tot": "185"
+                },
+                "value": "0.32",
+                "status": 1,
+                "his": {
+                    "low": "0.32",
+                    "high": "0.64",
+                    "med": "0.37"
+                }
+            },
+            "Debt-to-Ebitda": {
+                "indu": {
+                    "global_rank": "79",
+                    "indu_med": "1.94",
+                    "indu_tot": "166"
+                },
+                "value": "1.77",
+                "status": 1,
+                "his": {
+                    "low": "1.69",
+                    "high": "4.89",
+                    "med": "1.96"
+                }
+            },
+            "Interest Coverage": {
+                "indu": {
+                    "global_rank": "113",
+                    "indu_med": "9.985",
+                    "indu_tot": "158"
+                },
+                "value": "3.88",
+                "status": 0,
+                "his": {
+                    "low": "1.05",
+                    "high": "6.47",
+                    "med": "4.19"
+                }
+            },
+            "Operating margin (%)": {
+                "indu": {
+                    "global_rank": "99",
+                    "indu_med": "7.57",
+                    "indu_tot": "207"
+                },
+                "value": "8.09",
+                "status": 0,
+                "his": {
+                    "low": "4.79",
+                    "high": "14.61",
+                    "med": "8.32"
+                }
+            },
+            "Net-margin (%)": {
+                "indu": {
+                    "global_rank": "106",
+                    "indu_med": "5.52",
+                    "indu_tot": "209"
+                },
+                "value": "5.44",
+                "status": 0,
+                "his": {
+                    "low": "0.86",
+                    "high": "8.03",
+                    "med": "5.39"
+                }
+            },
+            "ROE (%)": {
+                "indu": {
+                    "global_rank": "136",
+                    "indu_med": "8.24",
+                    "indu_tot": "205"
+                },
+                "value": "4.58",
+                "status": 0,
+                "his": {
+                    "low": "0.66",
+                    "high": "11.7",
+                    "med": "6.28"
+                }
+            },
+            "ROA (%)": {
+                "indu": {
+                    "global_rank": "135",
+                    "indu_med": "3.875",
+                    "indu_tot": "210"
+                },
+                "value": "2.08",
+                "status": 0,
+                "his": {
+                    "low": "0.27",
+                    "high": "4.25",
+                    "med": "2.8"
+                }
+            },
+            "ROC (Joel Greenblatt) (%)": {
+                "indu": {
+                    "global_rank": "138",
+                    "indu_med": "14.6",
+                    "indu_tot": "207"
+                },
+                "value": "7.78",
+                "status": 0,
+                "his": {
+                    "low": "3.54",
+                    "high": "18.69",
+                    "med": "10.23"
+                }
+            },
+            "Revenue Growth (%)": {
+                "indu": {
+                    "global_rank": "180",
+                    "indu_med": "10.1",
+                    "indu_tot": "205"
+                },
+                "value": "-11.4",
+                "status": 0,
+                "his": {
+                    "low": "-14.4",
+                    "high": "23",
+                    "med": "8.8"
+                }
+            },
+            "EBITDA Growth (%)": {
+                "indu": {
+                    "global_rank": "135",
+                    "indu_med": "17.6",
+                    "indu_tot": "186"
+                },
+                "value": "-1.2",
+                "status": 0,
+                "his": {
+                    "low": "-40.2",
+                    "high": "97.3",
+                    "med": "2.9"
+                }
+            },
+            "EPS Growth (%)": {
+                "indu": {
+                    "global_rank": "120",
+                    "indu_med": "18.35",
+                    "indu_tot": "162"
+                },
+                "value": "-10.4",
+                "status": 0,
+                "his": {
+                    "low": "-63",
+                    "high": "141",
+                    "med": "-5.9"
+                }
+            },
+            "Price/Net Cash": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "7.53",
+                    "indu_tot": "18"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "Price/Net Current Asset Value": {
+                "indu": {
+                    "global_rank": "62",
+                    "indu_med": "3.69",
+                    "indu_tot": "131"
+                },
+                "value": "3.36",
+                "status": 1,
+                "his": {
+                    "low": "0.97",
+                    "high": "20",
+                    "med": "1.71"
+                }
+            },
+            "Price/Tangible Book": {
+                "indu": {
+                    "global_rank": "6",
+                    "indu_med": "1.69",
+                    "indu_tot": "193"
+                },
+                "value": "0.32",
+                "status": 1,
+                "his": {
+                    "low": "0.22",
+                    "high": "0.69",
+                    "med": "0.35"
+                }
+            },
+            "Price/DCF (Projected)": {
+                "indu": {
+                    "global_rank": "12",
+                    "indu_med": "1.09",
+                    "indu_tot": "151"
+                },
+                "value": "0.34",
+                "status": 1,
+                "his": {
+                    "low": "0.21",
+                    "high": "1.48",
+                    "med": "0.31"
+                }
+            },
+            "Price/Median PS Value": {
+                "indu": {
+                    "global_rank": "84",
+                    "indu_med": "0.94",
+                    "indu_tot": "138"
+                },
+                "value": "1.08",
+                "status": 1,
+                "his": {
+                    "low": "0.38",
+                    "high": "1.19",
+                    "med": "0.69"
+                }
+            },
+            "Price/Peter Lynch Fair Value": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "0.68",
+                    "indu_tot": "89"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "0.26",
+                    "high": "1.6",
+                    "med": "0.47"
+                }
+            },
+            "Price/Graham Number": {
+                "indu": {
+                    "global_rank": "5",
+                    "indu_med": "1.02",
+                    "indu_tot": "157"
+                },
+                "value": "0.31",
+                "status": 1,
+                "his": {
+                    "low": "0.16",
+                    "high": "0.73",
+                    "med": "0.32"
+                }
+            },
+            "Price/DCF": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "0.55",
+                    "indu_tot": "37"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "Dividend Yield": {
+                "indu": {
+                    "global_rank": "94",
+                    "indu_med": "2.595",
+                    "indu_tot": "136"
+                },
+                "value": "1.65",
+                "status": 0,
+                "his": {
+                    "low": "0.91",
+                    "high": "11.6",
+                    "med": "1.69"
+                }
+            },
+            "Dividend Payout": {
+                "indu": {
+                    "global_rank": "15",
+                    "indu_med": "0.31",
+                    "indu_tot": "119"
+                },
+                "value": "0.11",
+                "status": 1,
+                "his": {
+                    "low": "0.07",
+                    "high": "2.9",
+                    "med": "0.11"
+                }
+            },
+            "Dividend growth (3y)": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "18.4",
+                    "indu_tot": "79"
+                },
+                "value": "0",
+                "status": 0,
+                "his": {
+                    "low": "-31.4",
+                    "high": "-28.2",
+                    "med": "-29.9"
+                }
+            },
+            "Share Buyback Rate": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "-1.4",
+                    "indu_tot": "129"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "-10.1",
+                    "high": "-10.1",
+                    "med": "-10.1"
+                }
+            },
+            "Yield on cost (5-Year)": {
+                "indu": {
+                    "global_rank": "113",
+                    "indu_med": "2.915",
+                    "indu_tot": "136"
+                },
+                "value": "1.04",
+                "status": 0,
+                "his": {
+                    "low": "0.56",
+                    "high": "7.16",
+                    "med": "1.04"
+                }
+            },
+            "Shareholder Yield %": {
+                "indu": {
+                    "global_rank": "10",
+                    "indu_med": "1.21",
+                    "indu_tot": "206"
+                },
+                "value": "27.03",
+                "status": 0,
+                "his": {
+                    "low": "-22.39",
+                    "high": "70.45",
+                    "med": "-2.13"
+                }
+            },
+            "Buyback Yield %": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "0.13",
+                    "indu_tot": "49"
+                },
+                "value": "0",
+                "status": 0,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "Net Debt Paydown Yield %": {
+                "indu": {
+                    "global_rank": "10",
+                    "indu_med": "-0.26",
+                    "indu_tot": "198"
+                },
+                "value": "25.38",
+                "status": 0,
+                "his": {
+                    "low": "-24.94",
+                    "high": "70.45",
+                    "med": "-2.13"
+                }
+            },
+            "EV-to-EBIT": {
+                "indu": {
+                    "global_rank": "28",
+                    "indu_med": "9.88",
+                    "indu_tot": "171"
+                },
+                "value": "5.33",
+                "status": 1,
+                "his": {
+                    "low": "2.62",
+                    "high": "22.75",
+                    "med": "5.87"
+                }
+            },
+            "EV-to-Revenue": {
+                "indu": {
+                    "global_rank": "45",
+                    "indu_med": "1.08",
+                    "indu_tot": "209"
+                },
+                "value": "0.51",
+                "status": 1,
+                "his": {
+                    "low": "0.28",
+                    "high": "1.26",
+                    "med": "0.58"
+                }
+            },
+            "EV-to-EBITDA": {
+                "indu": {
+                    "global_rank": "11",
+                    "indu_med": "8.525",
+                    "indu_tot": "174"
+                },
+                "value": "2.44",
+                "status": 1,
+                "his": {
+                    "low": "1.67",
+                    "high": "7.6",
+                    "med": "3.33"
+                }
+            },
+            "EV-to-FCF": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "15.26",
+                    "indu_tot": "124"
+                },
+                "value": "-16.21",
+                "status": 1,
+                "his": {
+                    "low": "-41.86",
+                    "high": "22",
+                    "med": "2.72"
+                }
+            },
+            "EV-to-Forward-EBITDA": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "7.62",
+                    "indu_tot": "56"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "EV-to-Forward-EBIT": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "11.14",
+                    "indu_tot": "51"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "EV-to-Forward-Revenue": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "0.875",
+                    "indu_tot": "60"
+                },
+                "value": "0",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "Book Growth (%)": {
+                "indu": {
+                    "global_rank": "142",
+                    "indu_med": "8.4",
+                    "indu_tot": "197"
+                },
+                "value": "1.4",
+                "status": 0,
+                "his": {
+                    "low": "-3.8",
+                    "high": "37.7",
+                    "med": "6.1"
+                }
+            },
+            "FCF Growth (%)": {
+                "indu": {
+                    "global_rank": "51",
+                    "indu_med": "2.7",
+                    "indu_tot": "144"
+                },
+                "value": "15.8",
+                "status": 0,
+                "his": {
+                    "low": "-16.2",
+                    "high": "36.8",
+                    "med": "10.2"
+                }
+            },
+            "ROIC (%)": {
+                "indu": {
+                    "global_rank": "122",
+                    "indu_med": "6.535",
+                    "indu_tot": "208"
+                },
+                "value": "4.81",
+                "status": 0,
+                "his": {
+                    "low": "1.21",
+                    "high": "11.02",
+                    "med": "5.41"
+                }
+            },
+            "ROCE (%)": {
+                "indu": {
+                    "global_rank": "128",
+                    "indu_med": "9.34",
+                    "indu_tot": "204"
+                },
+                "value": "6.99",
+                "status": 0,
+                "his": {
+                    "low": "3.53",
+                    "high": "16.84",
+                    "med": "9"
+                }
+            },
+            "Years of Profitability over Past 10-Year": {
+                "indu": {
+                    "global_rank": "1",
+                    "indu_med": "9",
+                    "indu_tot": "198"
+                },
+                "value": "10",
+                "status": 0,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "Gross Margin (%)": {
+                "indu": {
+                    "global_rank": "63",
+                    "indu_med": "24.28",
+                    "indu_tot": "205"
+                },
+                "value": "28.95",
+                "status": 0,
+                "his": {
+                    "low": "24.8",
+                    "high": "34.16",
+                    "med": "28.35"
+                }
+            },
+            "Future 3-5Y EPS without NRI Growth Rate Estimate": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "18.93",
+                    "indu_tot": "57"
+                },
+                "value": "0",
+                "status": 0,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "Future 3-5Y Total Revenue Growth Rate Estimate": {
+                "indu": {
+                    "global_rank": "999999",
+                    "indu_med": "8.78",
+                    "indu_tot": "63"
+                },
+                "value": "0",
+                "status": 0,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "12-1 Month Momentum %": {
+                "indu": {
+                    "global_rank": "169",
+                    "indu_med": "-1.545",
+                    "indu_tot": "214"
+                },
+                "value": "-27.5",
+                "status": 0,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "6-1 Month Momentum %": {
+                "indu": {
+                    "global_rank": "142",
+                    "indu_med": "-5.43",
+                    "indu_tot": "215"
+                },
+                "value": "-12.78",
+                "status": 0,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "14-Day RSI": {
+                "indu": {
+                    "global_rank": "212",
+                    "indu_med": "49.48",
+                    "indu_tot": "217"
+                },
+                "value": "78.97",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "5-Day RSI": {
+                "indu": {
+                    "global_rank": "216",
+                    "indu_med": "56.59",
+                    "indu_tot": "217"
+                },
+                "value": "99.93",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "9-Day RSI": {
+                "indu": {
+                    "global_rank": "216",
+                    "indu_med": "51.095",
+                    "indu_tot": "218"
+                },
+                "value": "95.38",
+                "status": 1,
+                "his": {
+                    "low": "0",
+                    "high": "0",
+                    "med": "0"
+                }
+            },
+            "3-Year ROIIC %": {
+                "indu": {
+                    "global_rank": "208",
+                    "indu_med": "9.155",
+                    "indu_tot": "208"
+                },
+                "value": "-2344.02",
+                "status": 0,
+                "his": {
+                    "low": "-2344.02",
+                    "high": "91.16",
+                    "med": "3.86"
+                }
+            },
+            "zscore": {
+                "indu": {
+                    "global_rank": "",
+                    "indu_med": "",
+                    "indu_tot": ""
+                },
+                "value": "1.15",
+                "status": "",
+                "his": {
+                    "low": "",
+                    "high": ""
+                }
+            },
+            "fscore": {
+                "indu": {
+                    "global_rank": "108",
+                    "indu_med": "6",
+                    "indu_tot": "208"
+                },
+                "value": "5",
+                "status": 0,
+                "his": {
+                    "low": "3",
+                    "high": "8",
+                    "med": "5"
+                }
+            },
+            "mscore": {
+                "indu": {
+                    "global_rank": "",
+                    "indu_med": "",
+                    "indu_tot": ""
+                },
+                "value": "-2.51",
+                "status": "",
+                "his": {
+                    "low": "",
+                    "high": ""
+                }
+            }
+        },
+        "guru": {},
+        "insider": {},
+        "company_data": {
+            "symbol": "BKX",
+            "exchange": "SGX",
+            "company": "Yongmao Holdings Ltd",
+            "industry": "Farm & Heavy Construction Machinery",
+            "price": 0.605,
+            "mktwindustry": 0,
+            "yield": "1.65",
+            "yield_on_cost": "1.04",
+            "yield_on_cost_high": "7.16",
+            "yield_on_cost_med": "1.04",
+            "yield_on_cost_low": "0.56",
+            "mktcap": "53.694",
+            "cusip": "Y9841M116",
+            "ev": "-33.303",
+            "ev_morn": "75.667",
+            "id": 0,
+            "rank_dividend": 2,
+            "earning_yield": "15.04",
+            "roc": "4.81",
+            "roc_growth_5y": "0.00",
+            "data_complete": 0,
+            "pe": "6.65",
+            "ps": "0.36",
+            "pb": "0.31",
+            "ptb": "0.32",
+            "ev2ebitda": "2.44",
+            "earning_yield_greenblatt": "18.76",
+            "earning_yield_greenblatt_med": "17.05",
+            "earning_yield_greenblatt_high": "38.14",
+            "earning_yield_greenblatt_low": "4.40",
+            "y_yield": "0.00",
+            "country": "Singapore",
+            "buyback": "0.00",
+            "return5y": "0.00",
+            "sales_growth": "0.00",
+            "ebitda_growth": "0.00",
+            "rank": 4,
+            "related_comp": "SGX:BKA,SGX:1A1,NYSE:CAT,NYSE:DE,OSTO:VOLV A,NAS:PCAR,TSE:6201,TSE:6301,OSTO:EPI A,XAMS:EXO,TSE:6326,SHSE:600031,NYSE:CNHI,SZSE:000425,NYSE:AGCO,OHEL:METSO,SZSE:000157,NYSE:OSK,BOM:500477,TSE:6305",
+            "similar_cap": [
+                "SGX:ZKX",
+                "SGX:BVQ",
+                "SGX:WKS",
+                "SGX:NXR",
+                "SGX:BHU",
+                "SGX:5OI",
+                "SGX:Q0X",
+                "SGX:G50",
+                "SGX:Y8E",
+                "SGX:Y3D",
+                "NAS:IPA",
+                "XKLS:7579",
+                "ROCO:6827",
+                "XKLS:0058",
+                "HKSE:00668",
+                "NSE:DUGLOBAL",
+                "ROCO:3684",
+                "XKLS:5166",
+                "TSE:7578",
+                "TSE:7608"
+            ],
+            "similar_pe": [
+                "SGX:T12",
+                "SGX:KJ5",
+                "SGX:1E3",
+                "SGX:S19",
+                "SGX:SJY",
+                "SGX:U09",
+                "SGX:554",
+                "SGX:BLZ",
+                "SGX:BEW",
+                "SGX:G50",
+                "NSE:DIL",
+                "XKRX:002900",
+                "WAR:WLT",
+                "JSE:BEL",
+                "XKRX:050860",
+                "XKRX:036890",
+                "OVSE:EWA1L",
+                "XKRX:210540",
+                "MIC:TUZA",
+                "ATH:PETRO"
+            ],
+            "similar_sales": [
+                ""
+            ],
+            "sales": "147.564",
+            "asset": "384.135",
+            "hard_asset": "272.999",
+            "similar_ps": [
+                "SGX:540",
+                "SGX:BLA",
+                "SGX:G0I",
+                "SGX:BPF",
+                "SGX:P52",
+                "SGX:A52",
+                "SGX:5HV",
+                "SGX:5WJ",
+                "SGX:B9S",
+                "SGX:BCD",
+                "ATH:PETRO",
+                "MIC:TUZA",
+                "BUE:AGRO",
+                "XKRX:036890",
+                "XAMS:HYDRA",
+                "OVSE:EWA1L",
+                "XKRX:210540",
+                "NAS:ARTW",
+                "XKRX:041440",
+                "XKRX:050860"
+            ],
+            "shares": "88.75",
+            "insider_update": "0.00",
+            "insider_buy": 0,
+            "eps": "0.091",
+            "similar_pb": [
+                ""
+            ],
+            "similar_yield": [
+                ""
+            ],
+            "price52wlow": "0.545000",
+            "price52whigh": "0.800000",
+            "price3ylow": "0.545000",
+            "price3yhigh": "0.900000",
+            "price5ylow": "0.545000",
+            "price5yhigh": "1.500000",
+            "price10yhigh": "1.500000",
+            "price10ylow": "0.210000",
+            "beta": "-1.42",
+            "book": "1.95",
+            "cashflow": "0.00",
+            "roe": "4.58",
+            "ROC_JOEL": "7.78",
+            "ROC_JOEL_med": "10.23",
+            "ROC_JOEL_high": "18.69",
+            "ROC_JOEL_low": "3.54",
+            "roa": "2.08",
+            "roi": "-10.10",
+            "dividend": "0.00",
+            "payout": "0.11",
+            "oprt_margain": "8.09",
+            "net_margain": "5.44",
+            "pretax_margain": "7.54",
+            "quick_ratio": "0.81",
+            "quick_ratio_high": "0.93",
+            "quick_ratio_low": "0.77",
+            "quick_ratio_med": "0.85",
+            "current_ratio": "1.22",
+            "current_ratio_high": "1.41",
+            "current_ratio_low": "1.17",
+            "current_ratio_med": "1.32",
+            "debt2equity": "0.32",
+            "pcashflow": "0.00",
+            "pchange_1w": "1.68",
+            "pchange_4w": "6.09",
+            "pchange_12w": "-3.85",
+            "pchange_24w": "-7.47",
+            "pchange_52w": "-23.03",
+            "pchange_ytd": "-9.51",
+            "pchangeSP_1w": "1.40",
+            "pchangeSP_4w": "2.09",
+            "pchangeSP_12w": "-11.71",
+            "pchangeSP_24w": "-18.41",
+            "pchangeSP_52w": "-47.94",
+            "pchangeSP_ytd": "-28.10",
+            "pchange_3y": "-11.10",
+            "pchange_5y": "-3.87",
+            "pchange_10y": "-4.53",
+            "cash": "0.00",
+            "short_ratio": "N/A for non-Australia stocks",
+            "ShortPercentageOfSharesOutstanding": "N/A for non-Australia stocks",
+            "rvn_growth_10y": "3.00",
+            "earning_growth_10y": "6.90",
+            "ebitda_growth_10y": "3.30",
+            "dividend_growth_10y": "0.00",
+            "rvn_predc_10y": "0.13",
+            "ebitda_predc_10y": "0.20",
+            "rvn_growth_5y": "-3.10",
+            "rvn_growth_3y": "-11.40",
+            "rvn_growth_3y_high": "23.00",
+            "rvn_growth_3y_low": "-14.40",
+            "rvn_growth_3y_med": "8.80",
+            "ebitda_growth_3y": "-1.20",
+            "ebitda_growth_3y_high": "97.30",
+            "ebitda_growth_3y_low": "-40.20",
+            "ebitda_growth_3y_med": "2.90",
+            "book_growth_3y": "1.40",
+            "book_growth_3y_high": "37.70",
+            "book_growth_3y_low": "-3.80",
+            "book_growth_3y_med": "6.10",
+            "asset_growth_3y": "0.30",
+            "asset_growth_10y": "3.10",
+            "asset_growth_5y": "4.30",
+            "asset_growth_3y_high": "56.50",
+            "asset_growth_3y_low": "-3.40",
+            "asset_growth_3y_med": "7.10",
+            "asset_growth_1y": "1.30",
+            "earning_growth_5y": "-7.20",
+            "ebitda_growth_5y": "1.50",
+            "rvn_growth_1y": "-17.30",
+            "earning_growth_1y": "-19.30",
+            "ebitda_growth_1y": "-5.20",
+            "share_growth_10y": "0.00",
+            "predictability": 1,
+            "book_growth_10y": "5.10",
+            "book_predict_10y": "0.00",
+            "cashflow_growth_10y": "0.00",
+            "cashflow_growth_5y": "0.00",
+            "cashflow_growth_3y": "15.80",
+            "cashflow_growth_3y_high": "36.80",
+            "cashflow_growth_3y_low": "-16.20",
+            "cashflow_growth_3y_med": "10.20",
+            "debt2rev_growth_10y": "-6.10",
+            "debt2rev_growth_5y": "6.50",
+            "debt2rev_growth_1y": "0.00",
+            "book_growth_5y": "3.70",
+            "book_growth_1y": "-2.60",
+            "cashflow_growth_1y": "-198.10",
+            "grossmargin_growth": "2.00",
+            "operatingmargin_growth": "-3.60",
+            "first5_egrowth": "0.00",
+            "second5_egrowth": "1.46",
+            "grossmargin": "28.95",
+            "grossmargin_high": "34.16",
+            "grossmargin_low": "24.80",
+            "grossmargin_med": "28.35",
+            "iv_dcf": "0.00",
+            "p2iv_dcf_med": "0.00",
+            "p2iv_dcf_high": "0.00",
+            "p2iv_dcf_low": "0.00",
+            "iv_dcf_share": "1.77",
+            "p2iv_dcf_share": "0.34",
+            "p2iv_dcf_share_med": "0.31",
+            "p2iv_dcf_share_high": "1.48",
+            "p2iv_dcf_share_low": "0.21",
+            "p2iv_dcf": "0.00",
+            "medpsvalue": "0.56",
+            "p2medpsvalue": "1.08",
+            "p2medpsvalue_med": "0.69",
+            "p2medpsvalue_high": "1.19",
+            "p2medpsvalue_low": "0.38",
+            "tangible_book": "1.91",
+            "p2tangible_book": "0.32",
+            "p2tangible_book_med": "0.35",
+            "p2tangible_book_high": "0.69",
+            "p2tangible_book_low": "0.22",
+            "iv_dcEarning": "0.00",
+            "p2iv_dcEarning": "0.00",
+            "p2iv_dcEarning_med": "0.00",
+            "p2iv_dcEarning_high": "0.00",
+            "p2iv_dcEarning_low": "0.00",
+            "net_cash": "-2.02",
+            "p2net_cash": "0.00",
+            "p2net_cash_med": "0.00",
+            "p2net_cash_high": "0.00",
+            "p2net_cash_low": "0.00",
+            "oprt_cashflow_12m": "0.02",
+            "ncav": "-0.84",
+            "ncav_real": "0.180",
+            "p2ncav": "3.36",
+            "p2ncav_med": "1.71",
+            "p2ncav_high": "20.00",
+            "p2ncav_low": "0.97",
+            "last_10kq": 0,
+            "pslow": "0.15",
+            "pblow": "0.18",
+            "pfcf": "0.00",
+            "pfcfhigh": "15.09",
+            "pfcflow": "1.44",
+            "pfcfmed": "4.26",
+            "peg": "4.43",
+            "peghigh": "7.86",
+            "peglow": "0.06",
+            "pegmed": "0.62",
+            "ev2ebit": "5.33",
+            "ev2ebithigh": "22.75",
+            "ev2ebitlow": "2.62",
+            "ev2ebitmed": "5.87",
+            "oprt_margain_high": "14.61",
+            "oprt_margain_low": "4.79",
+            "oprt_margain_med": "8.32",
+            "pretax_margain_high": "11.87",
+            "pretax_margain_low": "0.98",
+            "pretax_margain_med": "7.26",
+            "net_margain_high": "8.03",
+            "net_margain_low": "0.86",
+            "net_margain_med": "5.39",
+            "roe_high": "11.70",
+            "roe_low": "0.66",
+            "roe_med": "6.28",
+            "roa_high": "4.25",
+            "roa_low": "0.27",
+            "roa_med": "2.80",
+            "yield_high": "11.60",
+            "yield_low": "0.91",
+            "yield_med": "1.69",
+            "payout_high": "2.90",
+            "payout_low": "0.07",
+            "payout_med": "0.11",
+            "sp": 0,
+            "cik": "",
+            "iv_dcf_normalized": "147.17",
+            "zscore": "1.15",
+            "zscore_med": "1.33",
+            "zscore_high": "1.50",
+            "zscore_low": "0.83",
+            "zscore_detail": "a:5:{i:0;s:6:\"0.1066\";i:1;s:6:\"0.2543\";i:2;s:6:\"0.0368\";i:3;s:6:\"0.2677\";i:4;s:6:\"0.3832\";}",
+            "mscore": "-2.51",
+            "mscore_med": "-2.45",
+            "mscore_high": "-2.05",
+            "mscore_low": "-2.85",
+            "mscore_detail": "a:8:{s:4:\"dsri\";s:5:\"1.116\";s:3:\"gmi\";s:6:\"0.9583\";s:3:\"aqi\";s:6:\"0.8643\";s:3:\"sgi\";s:6:\"0.8265\";s:4:\"depi\";s:6:\"1.1304\";s:4:\"sgai\";s:6:\"0.9558\";s:4:\"lvgi\";s:6:\"1.0121\";s:4:\"tata\";s:7:\"0.01722\";}",
+            "exch": "",
+            "pshigh": "0.69",
+            "pbhigh": "0.86",
+            "pbmed": "0.38",
+            "psmed": "0.34",
+            "volume": 22100,
+            "fscore": 5,
+            "fscore_med": 5,
+            "fscore_high": 8,
+            "fscore_low": 3,
+            "fscore_detail": "a:9:{i:0;i:1;i:1;i:1;i:3;i:0;i:2;i:0;i:4;i:1;i:5;i:0;i:6;i:1;i:7;i:1;i:8;i:0;}",
+            "iv_dcf_normalized_proj_growth": "4.50",
+            "pettmhigh": "83.33",
+            "pettmmed": "6.13",
+            "pettmlow": "2.14",
+            "timestamp": 1724994000,
+            "p_change": 0.01,
+            "p_pct_change": 1.68,
+            "open": "0.605000",
+            "volumn_day": 1300,
+            "low": 0.6,
+            "high": 0.605,
+            "quotetime": 0,
+            "gava": "0.00",
+            "rank_momentum": 8,
+            "equity2asset": "0.45",
+            "debt2rev": "0.37",
+            "equity2asset_med": "0.45",
+            "equity2asset_high": "0.48",
+            "equity2asset_low": "0.40",
+            "cash2debt": "0.59",
+            "cash2debt_med": "0.58",
+            "cash2debt_high": "0.77",
+            "cash2debt_low": "0.43",
+            "interest_coverage": "3.88",
+            "interest_coverage_med": "4.19",
+            "interest_coverage_high": "6.47",
+            "interest_coverage_low": "1.05",
+            "dividend_startyear": 2022,
+            "ShillerPE": "4.96",
+            "ShillerPE_med": "6.55",
+            "ShillerPE_high": "14.86",
+            "ShillerPE_low": "2.27",
+            "e10": "0.12",
+            "pettm": "6.65",
+            "grahamnumber": "1.98",
+            "p2grahamnumber": "0.31",
+            "p2grahamnumber_med": "0.32",
+            "p2grahamnumber_high": "0.73",
+            "p2grahamnumber_low": "0.16",
+            "RateOfReturn": "7.80",
+            "RateOfReturn_med": "11.16",
+            "RateOfReturn_high": "20.71",
+            "RateOfReturn_low": "-0.29",
+            "lynchvalue": "0.00",
+            "p2lynchvalue": "0.00",
+            "p2lynchvalue_med": "0.47",
+            "p2lynchvalue_high": "1.60",
+            "p2lynchvalue_low": "0.26",
+            "profit_year_num": 10,
+            "total_rvn_growth_10y": "3.00",
+            "total_rvn_growth_5y": "-3.10",
+            "total_rvn_growth_3y": "-11.40",
+            "total_rvn_growth_3y_high": "23.00",
+            "total_rvn_growth_3y_low": "-14.40",
+            "total_rvn_growth_3y_med": "8.80",
+            "total_rvn_growth_1y": "-17.30",
+            "dividend_growth_5y": "-9.20",
+            "dividend_growth_3y": "0.00",
+            "dividend_growth_3y_high": "-28.20",
+            "dividend_growth_3y_low": "-31.40",
+            "dividend_growth_3y_med": "-29.90",
+            "dividend_growth_1y": "0.00",
+            "equity2liab_tangbile": "0.57",
+            "total_ebitda_growth_10y": "3.30",
+            "total_ebitda_growth_5y": "1.50",
+            "total_ebitda_growth_3y": "-1.20",
+            "total_ebitda_growth_3y_high": "97.30",
+            "total_ebitda_growth_3y_low": "-40.10",
+            "total_ebitda_growth_3y_med": "2.90",
+            "total_ebitda_growth_1y": "-5.20",
+            "total_buyback_10y": "0.00",
+            "total_buyback_5y": "0.00",
+            "total_buyback_3y": "0.00",
+            "total_buyback_3y_high": "-10.10",
+            "total_buyback_3y_low": "-10.10",
+            "total_buyback_3y_med": "-10.10",
+            "total_buyback_1y": "0.00",
+            "total_netincome_growth_10y": "7.00",
+            "total_netincome_growth_5y": "-7.50",
+            "total_netincome_growth_3y": "-10.90",
+            "total_netincome_growth_3y_high": "146.80",
+            "total_netincome_growth_3y_low": "-61.00",
+            "total_netincome_growth_3y_med": "-6.10",
+            "total_netincome_growth_1y": "-19.80",
+            "earning_growth_3y": "-10.40",
+            "earning_growth_3y_high": "141.00",
+            "earning_growth_3y_low": "-63.00",
+            "earning_growth_3y_med": "-5.90",
+            "rank_balancesheet": 5,
+            "rank_profitability": 6,
+            "primary_exch": "SGX",
+            "type": "ST00000001",
+            "class_descpt": "",
+            "currency": "SGD",
+            "isin": "SG1CB9000001",
+            "sedol": "BD4DC43",
+            "fiscal_year_end": 3,
+            "ind_template": "N",
+            "primary_symbol": "BKX",
+            "country_iso": "SGP",
+            "inst_ownership": "0.37",
+            "insider_ownership": "0.00",
+            "last_price_date": "2008-02-21",
+            "num_warning_signs_severe": 4,
+            "num_warning_signs_meidum": 0,
+            "num_good_signs": 4,
+            "warning_details": {
+                "zscore": {
+                    "category": "Financial Strength",
+                    "degree": "s",
+                    "name": "Altman Z-Score",
+                    "display": "Distress",
+                    "details": "Altman Z-score of 1.15 is in distress zone. This implies bankruptcy possibility in the next two years."
+                },
+                "per share rev": {
+                    "category": "Growth",
+                    "name": "Revenue per Share",
+                    "degree": "s",
+                    "display": "Declined",
+                    "details": "Yongmao Holdings Ltd revenue per share has been in decline for the last 5 years. "
+                },
+                "operatingmargin": {
+                    "category": "Profitability",
+                    "name": "Operating Margin %",
+                    "degree": "s",
+                    "display": "Declined",
+                    "details": "Yongmao Holdings Ltd operating margin has been in a 5-year decline. The average rate of decline per year is -3.6%."
+                },
+                "Long-Term Debt": {
+                    "category": "Financial Strength",
+                    "name": "Long-Term Debt",
+                    "degree": "s",
+                    "display": "Keep issuing new debt",
+                    "details": "Yongmao Holdings Ltd keeps issuing new debt. Over the past 3 years, it issued CNY 3.305 million of debt."
+                }
+            },
+            "good_details": {
+                "mscore": {
+                    "category": "Financial Strength",
+                    "degree": "g",
+                    "name": "Beneish M-Score",
+                    "display": "Unlikely manipulator",
+                    "details": "Beneish M-Score -2.51 no higher than -1.78, which implies that the company is unlikely to be a manipulator."
+                },
+                "yield": {
+                    "category": "Dividends",
+                    "name": "Dividend Yield %",
+                    "degree": "g",
+                    "display": "Close to 3-year high",
+                    "details": "Yongmao Holdings Ltd stock dividend yield is close to 3-year high."
+                },
+                "price": {
+                    "category": "Price",
+                    "name": "Price",
+                    "degree": "g",
+                    "display": "Close to 5-year low",
+                    "details": "Yongmao Holdings Ltd stock Price is close to 5-year low"
+                },
+                "pb": {
+                    "category": "Valuation",
+                    "name": "PB Ratio",
+                    "degree": "g",
+                    "display": "Close to 5-year low",
+                    "details": "Yongmao Holdings Ltd stock PB Ratio (=0.31) is close to 5-year low of 0.28"
+                }
+            },
+            "meta": "N;",
+            "currency_comp": "CNY",
+            "currency_secr": "CNY",
+            "report_frequency": "6M",
+            "float": "0.0000",
+            "mktcap_norm": "41.105",
+            "ev_morn_norm": "57.927",
+            "pebitda_med": "1.94",
+            "pebit_med": "0.00",
+            "rsquare_penri": "0.20",
+            "rsquare_ps": "0.04",
+            "rsquare_pb": "0.01",
+            "rsquare_pebitda": "0.33",
+            "projected_ps": "0.56",
+            "projected_pb": "0.74",
+            "projected_penri": "0.56",
+            "projected_pebitda": "0.68",
+            "ebit_growth_10y": "0.60",
+            "ebit_growth_5y": "-6.60",
+            "ebit_growth_3y": "-15.50",
+            "ebit_growth_1y": "-8.80",
+            "ebit_growth_3y_high": "86.20",
+            "ebit_growth_3y_low": "-49.90",
+            "ebit_growth_3y_med": "-5.30",
+            "ROC_JOEL_growth": "-10.40",
+            "penri": "6.65",
+            "penrihigh": "75.00",
+            "penrilow": "2.14",
+            "penrimed": "6.14",
+            "predictability_5y": "0.13",
+            "inventory2sales": "0.5250",
+            "forwardPE": "0.00",
+            "sloanratio": "3.030",
+            "pocf": "40.33",
+            "daysinventory": "269.71",
+            "daysinventory_med": "218.91",
+            "daysinventory_high": "323.60",
+            "daysinventory_low": "189.01",
+            "dayssalesoutstand": "233.73",
+            "dayssalesoutstand_med": "168.66",
+            "dayssalesoutstand_high": "291.75",
+            "dayssalesoutstand_low": "138.51",
+            "dayspayable": "413.48",
+            "dayspayable_med": "276.07",
+            "dayspayable_high": "423.78",
+            "dayspayable_low": "229.87",
+            "pocfhigh": "51.67",
+            "pocflow": "1.21",
+            "pocfmed": "3.60",
+            "goodwill2asset": "0.00",
+            "TotalPayoutRatio": "0.16",
+            "TotalPayoutYield": "3.26",
+            "ROTA": "2.09",
+            "ROTA_high": "4.25",
+            "ROTA_low": "0.27",
+            "ROTA_med": "2.83",
+            "ROTE": "4.64",
+            "ROTE_high": "11.70",
+            "ROTE_low": "0.66",
+            "ROTE_med": "6.41",
+            "num_analyst": 0,
+            "analyst_opinion": "",
+            "EPV": "1.54",
+            "p2EPV": "0.39",
+            "funda_time": 1721745901,
+            "ebit_q1_growth": "-62.71",
+            "ebit_q2_growth": "3.76",
+            "ebit_q3_growth": "-7.81",
+            "ebit_q4_growth": "-16.35",
+            "wacc": "0.26",
+            "roic": "4.81",
+            "roic_high": "11.02",
+            "roic_med": "5.41",
+            "roic_low": "1.21",
+            "rdcf_growth": "0.00",
+            "ccc": "89.96",
+            "ev2pretaxincome": "6.80",
+            "grossprofit2asset": "11.09",
+            "grossprofit2tangibleasset": "11.15",
+            "dividend_freq": 1,
+            "dividend_months": "9",
+            "ev_temp": "75.667",
+            "mktcap_temp": "53.694",
+            "eps_nri": "0.091",
+            "ForwardDividendYield": "1.65",
+            "InstitutionSharesHeld": "0.3290",
+            "InsiderSharesOwned": "0.0000",
+            "ShortInterest": "N/A for non-Australia stocks",
+            "p2nnwc": "0.00",
+            "ev2ebitdahigh": "7.60",
+            "ev2ebitdalow": "1.67",
+            "ev2ebitdamed": "3.33",
+            "next_earnings_date": "",
+            "ttm_eps": "0.091",
+            "ttm_eps_nri": "0.091",
+            "roa_med_5y": "3.08",
+            "roe_med_5y": "6.92",
+            "roic_med_5y": "5.80",
+            "ROC_JOEL_med_5y": "11.17",
+            "oprt_margain_med_5y": "8.08",
+            "tax_rate_med_5y": "16.31",
+            "FCFyield": "-8.69",
+            "FCFmargin": "-3.16",
+            "FCFyield_med_5y": "-7.33",
+            "FCFmargin_med_5y": "-2.01",
+            "debt2asset": "0.14",
+            "SGA": "13.460",
+            "grossprofit": "42.720",
+            "Owner_Earnings": "-0.05",
+            "p2Owner_Earnings": "0.00",
+            "p2Owner_Earnings_high": "62.00",
+            "p2Owner_Earnings_low": "1.45",
+            "p2Owner_Earnings_med": "5.39",
+            "ttm_dividend": "0.010",
+            "ttm_sales": "147.564",
+            "ForwardDividend": "0.01",
+            "IPO_date": "2008-02-21",
+            "NetInterestMargin": "0.00",
+            "margin_dcEarning": "0.00",
+            "earning_growth_5y_est": "0.00",
+            "forward_sales": "0.000",
+            "latest_quarter": "2024-03-31",
+            "SNOA": "0.55",
+            "volume_total": 22100,
+            "volumn_day_total": 1300,
+            "Logit": "-7.7039",
+            "PFD": "0.05",
+            "delisted": 0,
+            "delist_date": "0000-00-00",
+            "delist_reason": "",
+            "NAICS": 0,
+            "SIC": 0,
+            "currency_est": "",
+            "ev2rev": "0.51",
+            "ev2revhigh": "1.26",
+            "ev2revlow": "0.28",
+            "ev2revmed": "0.58",
+            "next_dividend_date": "2024-08-16",
+            "next_dividend_amount": "SGD 0.010000",
+            "ttm_EBITDA": "31.074",
+            "ttm_EBIT": "14.209",
+            "ttm_pretaxincome": "11.126",
+            "optionable_stock": 0,
+            "EffectiveInterestRate": "5.29",
+            "past_earnings_date": "2024-07-11",
+            "rank_quality": 5,
+            "valuation_avg": "0.56",
+            "p2val_avg": "1.08",
+            "projected_return": "0.00",
+            "projected_correlation": "0.00",
+            "medpbvalue": "0.78",
+            "p2medpbvalue": "0.77",
+            "p2medpbvalue_high": "0.85",
+            "p2medpbvalue_low": "0.42",
+            "p2medpbvalue_med": "0.70",
+            "Dividend2FFO": "0.00",
+            "rsi_14": "78.97",
+            "sma_20": "0.594000",
+            "sma_50": "0.596800",
+            "sma_200": "0.659000",
+            "priceindex_6m": "0.91",
+            "dividend_date": "",
+            "debt2equity_high": "0.64",
+            "debt2equity_low": "0.32",
+            "debt2equity_med": "0.37",
+            "debt2ebitda": "1.77",
+            "debt2ebitda_high": "4.89",
+            "debt2ebitda_low": "1.69",
+            "debt2ebitda_med": "1.96",
+            "roe_adj": "14.77",
+            "ltd_chg_1y": "0.00",
+            "ltd_chg_3y": "0.00",
+            "ltd_chg_5y": "0.00",
+            "mktcap_chg_1y": "-6.34",
+            "mktcap_chg_3y": "2.31",
+            "mktcap_chg_5y": "84.72",
+            "volatility": "21.42",
+            "fscore_chg_1y": 0,
+            "IsDirect": "Indirect Method",
+            "rank_value": 4,
+            "rank_predictability": "1.00",
+            "dividend_firstyear": 2017,
+            "next_dividend_payment_date": "2024-09-05",
+            "rsi_5": "99.93",
+            "rsi_9": "95.38",
+            "rsi_30": "49.82",
+            "related_comp_local": "SGX:BKA,SGX:1A1",
+            "similar_cap_local": "SGX:ZKX,SGX:BVQ,SGX:WKS,SGX:NXR,SGX:BHU,SGX:5OI,SGX:Q0X,SGX:G50,SGX:Y8E,SGX:Y3D",
+            "similar_pe_local": "SGX:T12,SGX:KJ5,SGX:1E3,SGX:S19,SGX:SJY,SGX:U09,SGX:554,SGX:BLZ,SGX:BEW,SGX:G50",
+            "similar_ps_local": "SGX:540,SGX:BLA,SGX:G0I,SGX:BPF,SGX:P52,SGX:A52,SGX:5HV,SGX:5WJ,SGX:B9S,SGX:BCD",
+            "warning_keys": "{\"zscore_s\":{\"data\":null},\"mscore_g\":{\"data\":null},\"rvn_growth_5y_s\":{\"data\":null},\"operatingmargin_growth_s\":{\"data\":null},\"yield_g\":{\"data\":{\"year\":3}},\"price_g\":{\"data\":{\"year\":5}},\"pb_g\":{\"data\":{\"year\":5,\"min\":0.28}},\"net_issuance_of_debt_s\":{\"data\":{\"year\":3,\"amount\":\" 3.305 million\"}}}",
+            "num_warning_insider_severe": 0,
+            "num_warning_insider_medium": 0,
+            "num_good_insider": 0,
+            "gf_value": "0.48",
+            "gf_value_est": "0.44",
+            "pricehishigh": "2.500000",
+            "pricehislow": "0.210000",
+            "next_dividend_payment_amount": "SGD 0.010000",
+            "mktcap_norm_cny": "321.996",
+            "ev_norm_cny": "431.250",
+            "sales_norm_cny": "895.762",
+            "p2gf_value": "1.26",
+            "p2gf_value_est": "1.38",
+            "rank_growth": 6,
+            "rank_gf_value": 0,
+            "gf_valuation": "Modestly Overvalued",
+            "p2ffo": "0.00",
+            "insider_data": null,
+            "roce_med_5y": "9.91",
+            "roce": "6.99",
+            "roce_med": "9.00",
+            "roce_high": "16.84",
+            "roce_low": "3.53",
+            "risk_assessment": "Moderate Risk: Sensitive, better choose undervalued stock",
+            "total_rvn_growth_5y_est": "0.00",
+            "capex2rev": "0.04",
+            "similar_operating_data": "",
+            "pchange_6_1m": "-12.78",
+            "pchange_12_1m": "-27.50",
+            "dividend_12m": "0.010000",
+            "sales_norm": "112.968",
+            "operating_cashflow_growth_1y": "-78.90",
+            "operating_cashflow_growth_3y": "0.00",
+            "operating_cashflow_growth_3y_high": "96.70",
+            "operating_cashflow_growth_3y_low": "-58.10",
+            "operating_cashflow_growth_3y_med": "5.00",
+            "operating_cashflow_growth_5y": "0.00",
+            "operating_cashflow_growth_10y": "0.00",
+            "ev_morn_origin": "75.667",
+            "margin_dcf": "0.00",
+            "increase_dividend_startyear": 2022,
+            "latest_earnings_release_date": "",
+            "ev2fcf": "-16.21",
+            "ev2fcfhigh": "22.00",
+            "ev2fcflow": "-41.86",
+            "ev2fcfmed": "2.72",
+            "total_employee_number": 0,
+            "cash_ratio": "0.17",
+            "cash_ratio_high": "0.26",
+            "cash_ratio_low": "0.13",
+            "cash_ratio_med": "0.22",
+            "liabilities_to_assets": "0.52",
+            "forward_eps": "0.000",
+            "iv_dcf_dividend": "0.00",
+            "p2iv_dcf_dividend": "0.00",
+            "p2iv_dcf_dividend_high": "0.00",
+            "p2iv_dcf_dividend_low": "0.00",
+            "p2iv_dcf_dividend_med": "0.00",
+            "margin_dcf_dividend": "0.00",
+            "ipo_offer_price": "0.000000",
+            "ipo_offer_price_range": "",
+            "afinancials_start_date": "2007-03-01",
+            "capex_to_operating_income": "0.51",
+            "capex_to_operating_income_high": "0.56",
+            "capex_to_operating_income_low": "0.11",
+            "capex_to_operating_income_med": "0.20",
+            "capex_to_operating_cash_flow": "4.37",
+            "capex_to_operating_cash_flow_high": "4.37",
+            "capex_to_operating_cash_flow_low": "0.06",
+            "capex_to_operating_cash_flow_med": "0.30",
+            "wacc_high": "11.51",
+            "wacc_low": "-0.33",
+            "wacc_med": "5.29",
+            "wacc_med_5y": "5.14",
+            "rank_details": "[[6,6,5,4,5],[5,1,5,0,4,10,6],[3,1,6,0,8],null,[8]]",
+            "volatility_1m": "0.63",
+            "atr_14": "0.001570",
+            "gf_score": 61,
+            "shareholder_yield": "27.03",
+            "shareholder_yield_high": "70.45",
+            "shareholder_yield_low": "-22.39",
+            "shareholder_yield_med": "-2.13",
+            "total_buyback_3m": "0.00",
+            "total_buyback_6m": "0.00",
+            "roiic_1y": "16.17",
+            "roiic_3y": "-2344.02",
+            "roiic_5y": "-7.13",
+            "roiic_10y": "-14.95",
+            "ebitda_margin": "21.06",
+            "ev_to_forward_ebitda": "0.00",
+            "ev_to_forward_revenue": "0.00",
+            "ev_to_forward_ebit": "0.00",
+            "rvn_q1_growth": "-25.96",
+            "rvn_q2_growth": "-13.39",
+            "rvn_q3_growth": "-23.83",
+            "rvn_q4_growth": "-21.55",
+            "price_stdv_20": "0.005282",
+            "price_stdv_50": "0.024552",
+            "price_stdv_200": "0.054905",
+            "gf_score_high": 0,
+            "gf_score_low": 0,
+            "gf_score_med": 66,
+            "gf_score_med_5y": 67,
+            "total_debt_growth_1y": "-17.40",
+            "total_debt_growth_3y": "0.30",
+            "total_debt_growth_5y": "3.10",
+            "total_debt_growth_10y": "-3.30",
+            "ltd_growth_1y": "0.00",
+            "ltd_growth_3y": "0.00",
+            "ltd_growth_5y": "0.00",
+            "ltd_growth_10y": "0.00",
+            "gscore": 2,
+            "gscore_med": 3,
+            "gscore_high": 5,
+            "gscore_low": 1,
+            "gscore_detail": "a:8:{i:0;i:0;i:1;i:0;i:2;i:0;i:3;i:1;i:4;i:1;i:5;i:0;i:6;i:0;i:7;i:0;}",
+            "sub_type": "",
+            "rore_10y": "-6.53",
+            "rore_3y": "-13.03",
+            "rore_5y": "-7.63",
+            "eps_latest_q": "0.006",
+            "sales_latest_q": "57.972",
+            "sales_latest_q_norm": "44.380",
+            "mdd_1y": "-31.88",
+            "sd_1y": "31.79",
+            "z2score": "2.68",
+            "z2score_high": "3.35",
+            "z2score_low": "1.96",
+            "z2score_med": "2.88",
+            "z2score_detail": "a:4:{i:0;s:6:\"0.1066\";i:1;s:6:\"0.2543\";i:2;s:6:\"0.0368\";i:3;s:6:\"0.8613\";}",
+            "pchange_15y": "-3.37",
+            "pchange_20y": "0.00",
+            "parvalue": "0.000000",
+            "forward_pchange_1w": "0.00",
+            "forward_pchange_4w": "0.00",
+            "forward_pchange_12w": "0.00",
+            "forward_pchange_24w": "0.00",
+            "forward_pchange_52w": "0.00",
+            "forward_pchange_3y": "0.00",
+            "insider_buy_count_3m": 0,
+            "insider_sell_count_3m": 0,
+            "insider_buy_count_6m": 0,
+            "insider_sell_count_6m": 0,
+            "insider_buy_count_12m": 0,
+            "insider_sell_count_12m": 0,
+            "fcf_year_num": 5,
+            "premium_guru_buy_count": 0,
+            "premium_guru_sell_count": 0,
+            "plus_guru_buy_count": 0,
+            "plus_guru_sell_count": 0,
+            "ttm_fcf_per_share": "-0.053",
+            "report_style": 3,
+            "turnover": "0.38",
+            "inventory_turnover": "1.35",
+            "receivables_turnover": "1.56",
+            "owner_earnings_growth_1y": "-478.60",
+            "owner_earnings_growth_3y": "29.90",
+            "owner_earnings_growth_3y_high": "29.90",
+            "owner_earnings_growth_3y_low": "-54.40",
+            "owner_earnings_growth_3y_med": "-15.20",
+            "owner_earnings_growth_5y": "0.00",
+            "owner_earnings_growth_10y": "0.00",
+            "volatility_3y": "36.58",
+            "volatility_5y": "42.69",
+            "volatility_10y": "73.86",
+            "ltd_chg_10y": "0.00",
+            "mktcap_chg_10y": "-33.50",
+            "mktcap_chg_15y": "-16.88",
+            "mktcap_chg_20y": "0.00",
+            "mktcap_chg_25y": "0.00",
+            "ttm_revenue_per_share": "1.662",
+            "ttm_total_free_cash_flow": "-4.668",
+            "ttm_ffo_per_share": "0.000",
+            "ttm_ocf_per_share": "0.015",
+            "gf_value_est_2nd": "0.39",
+            "gf_value_est_3rd": "0.35",
+            "grossmargin_med_5y": "27.67",
+            "net_margain_med_5y": "5.43",
+            "pretax_margain_med_5y": "7.43",
+            "is_hk_connect": 0,
+            "FCFmargin_high": "17.44",
+            "FCFmargin_low": "-4.64",
+            "FCFmargin_med": "0.32",
+            "e10_growth_1y": "0.00",
+            "e10_growth_3y": "10.10",
+            "e10_growth_3y_high": "16.30",
+            "e10_growth_3y_low": "-14.00",
+            "e10_growth_3y_med": "9.40",
+            "e10_growth_5y": "12.50",
+            "e10_growth_10y": "0.00",
+            "sharpe_ratio": "0.22",
+            "degree_of_financial_leverage": "1.34",
+            "price_temp": "0.605000",
+            "premium_guru_hold_count": 0,
+            "premium_guru_total_count": 0,
+            "plus_guru_hold_count": 0,
+            "plus_guru_total_count": 0,
+            "mutual_fund_guru_hold_count": 0,
+            "mutual_fund_guru_buy_count": 0,
+            "mutual_fund_guru_sell_count": 0,
+            "mutual_fund_guru_total_count": 0,
+            "etf_guru_hold_count": 0,
+            "etf_guru_buy_count": 0,
+            "etf_guru_sell_count": 0,
+            "etf_guru_total_count": 0,
+            "institutional_guru_hold_count": 0,
+            "institutional_guru_buy_count": 0,
+            "institutional_guru_sell_count": 0,
+            "institutional_guru_total_count": 0,
+            "margin_gf_value": "-26.04",
+            "logo": null,
+            "forward_sales_2nd": "0.000",
+            "forward_eps_2nd": "0.000",
+            "volatility_1w": "0.75",
+            "cyclically_adjusted_book": "1.990",
+            "cyclically_adjusted_pb": "0.30",
+            "cyclically_adjusted_pb_high": "0.75",
+            "cyclically_adjusted_pb_low": "0.20",
+            "cyclically_adjusted_pb_med": "0.41",
+            "cyclically_adjusted_rvn": "2.220",
+            "cyclically_adjusted_ps": "0.27",
+            "cyclically_adjusted_ps_high": "0.63",
+            "cyclically_adjusted_ps_low": "0.17",
+            "cyclically_adjusted_ps_med": "0.34",
+            "ebitda_margin_high": "21.05",
+            "ebitda_margin_low": "14.80",
+            "ebitda_margin_med": "16.66",
+            "cyclically_adjusted_book_growth_1y": "5.30",
+            "cyclically_adjusted_book_growth_3y": "8.70",
+            "cyclically_adjusted_book_growth_3y_high": "9.20",
+            "cyclically_adjusted_book_growth_3y_low": "4.50",
+            "cyclically_adjusted_book_growth_3y_med": "7.25",
+            "cyclically_adjusted_book_growth_5y": "8.20",
+            "cyclically_adjusted_book_growth_10y": "0.00",
+            "cyclically_adjusted_rvn_growth_1y": "-1.30",
+            "cyclically_adjusted_rvn_growth_3y": "5.30",
+            "cyclically_adjusted_rvn_growth_3y_high": "9.30",
+            "cyclically_adjusted_rvn_growth_3y_low": "3.20",
+            "cyclically_adjusted_rvn_growth_3y_med": "5.70",
+            "cyclically_adjusted_rvn_growth_5y": "7.10",
+            "cyclically_adjusted_rvn_growth_10y": "0.00",
+            "cyclically_adjusted_fcf": "0.070",
+            "cyclically_adjusted_pfcf": "9.11",
+            "cyclically_adjusted_pfcf_high": "110.00",
+            "cyclically_adjusted_pfcf_low": "7.86",
+            "cyclically_adjusted_pfcf_med": "23.67",
+            "cyclically_adjusted_fcf_growth_1y": "16.70",
+            "cyclically_adjusted_fcf_growth_3y": "91.30",
+            "cyclically_adjusted_fcf_growth_3y_high": "91.30",
+            "cyclically_adjusted_fcf_growth_3y_low": "50.00",
+            "cyclically_adjusted_fcf_growth_3y_med": "70.65",
+            "cyclically_adjusted_fcf_growth_5y": "0.00",
+            "cyclically_adjusted_fcf_growth_10y": "0.00",
+            "valuation_box_status": "Mixed Valued",
+            "valuation_box_valid_metrics_count": 7,
+            "FCFyield_high": "69.18",
+            "FCFyield_low": "-26.32",
+            "FCFyield_med": "6.64",
+            "earning_yield_high": "46.67",
+            "earning_yield_low": "1.20",
+            "earning_yield_med": "16.32",
+            "golden_cross_sma_50_vs_200": "No",
+            "golden_cross_sma_20_vs_200": "No",
+            "golden_cross_sma_20_vs_50": "No",
+            "death_cross_sma_50_vs_200": "No",
+            "death_cross_sma_20_vs_200": "No",
+            "death_cross_sma_20_vs_50": "No",
+            "buyback_yield": "0.00",
+            "buyback_yield_high": "0.00",
+            "buyback_yield_low": "0.00",
+            "buyback_yield_med": "0.00",
+            "net_debt_paydown_yield": "25.38",
+            "net_debt_paydown_yield_high": "70.45",
+            "net_debt_paydown_yield_low": "-24.94",
+            "net_debt_paydown_yield_med": "-2.13",
+            "refinitiv_comp_id": "4295865207",
+            "refinitiv_secr_id": "55837451844",
+            "refinitiv_ric": "YNMH.SI",
+            "refinitiv_primary_ric": "YNMH.SI",
+            "target_price": "0.000000",
+            "target_price_num": 0,
+            "target_price_1w": "0.000000",
+            "target_price_1m": "0.000000",
+            "target_price_2m": "0.000000",
+            "target_price_3m": "0.000000",
+            "recommendation": "0.0",
+            "recommendation_num": 0,
+            "recommendation_details": "",
+            "gf_value_est_12m": "0.42",
+            "pchangeSP_3y": "-18.71",
+            "pchangeSP_5y": "-17.88",
+            "pchangeSP_10y": "-15.40",
+            "pchangeSP_15y": "-15.33",
+            "pchangeSP_20y": "0.00",
+            "years_of_financial_history": 18,
+            "macd_golden_cross_signal": "No",
+            "macd_death_cross_signal": "No",
+            "macd_line": "0.00",
+            "macd_signal_line": "0.00",
+            "gf_value_pct_change": "-0.80",
+            "forward_peg_ratio": "0.00",
+            "stock_type": "",
+            "style_box": "Small Value",
+            "growth_grade": "",
+            "financial_health_grade": "",
+            "profitability_grade": "",
+            "style_score": "-77.69056",
+            "size_score": "-73.03959",
+            "nace": "28.92",
+            "cannaics": 0,
+            "dividend_startyear_real": 2008,
+            "eps_growth_3y_est": "0.00",
+            "total_ebitda_growth_3y_est": "0.00",
+            "total_ebit_growth_3y_est": "0.00",
+            "dividend_growth_3y_est": "0.00",
+            "total_netincome_growth_3y_est": "0.00",
+            "total_pretaxincome_growth_3y_est": "0.00",
+            "book_growth_3y_est": "0.00",
+            "roa_growth_3y_est": "0.00",
+            "roe_growth_3y_est": "0.00",
+            "grossmargin_growth_3y_est": "0.00",
+            "operating_cashflow_growth_3y_est": "0.00",
+            "sharpe_ratio_3y": "-0.37",
+            "sharpe_ratio_5y": "0.04",
+            "sharpe_ratio_10y": "0.17",
+            "sortino_ratio_1y": "0.54",
+            "sortino_ratio_3y": "-0.63",
+            "sortino_ratio_5y": "0.07",
+            "sortino_ratio_10y": "0.34",
+            "roiic_3y_high": "91.16",
+            "roiic_3y_low": "-2344.02",
+            "roiic_3y_med": "3.86",
+            "p2gf_value_high": "6.25",
+            "p2gf_value_low": "0.37",
+            "p2gf_value_med": "0.88",
+            "ebit_margin": "9.63",
+            "ebit_margin_high": "15.06",
+            "ebit_margin_low": "5.52",
+            "ebit_margin_med": "9.16",
+            "rank_momentum_high": 0,
+            "rank_momentum_low": 0,
+            "rank_momentum_med": 0,
+            "rank_balancesheet_high": "0.00",
+            "rank_balancesheet_low": "0.00",
+            "rank_balancesheet_med": "0.00",
+            "rank_profitability_high": "0.00",
+            "rank_profitability_low": "0.00",
+            "rank_profitability_med": "0.00",
+            "rank_growth_high": 0,
+            "rank_growth_low": 0,
+            "rank_growth_med": 0,
+            "rank_gf_value_high": 0,
+            "rank_gf_value_low": 0,
+            "rank_gf_value_med": 0,
+            "display_symbol": "SGX:BKX",
+            "display_price": "S$0.605",
+            "competitor": [
+                "SGX:BKA",
+                "SGX:1A1",
+                "NYSE:CAT",
+                "NYSE:DE",
+                "OSTO:VOLV A",
+                "NAS:PCAR",
+                "TSE:6201",
+                "TSE:6301",
+                "OSTO:EPI A",
+                "XAMS:EXO",
+                "TSE:6326",
+                "SHSE:600031",
+                "NYSE:CNHI",
+                "SZSE:000425",
+                "NYSE:AGCO",
+                "OHEL:METSO",
+                "SZSE:000157",
+                "NYSE:OSK",
+                "BOM:500477",
+                "TSE:6305"
+            ],
+            "cap": "53.694",
+            "revenue": "147.564",
+            "sector": "Industrials",
+            "sector_code": 310,
+            "group": "Farm & Heavy Construction Machinery",
+            "group_code": 31050,
+            "traded_countries": [
+                {
+                    "country": "Singapore",
+                    "exchange": "SGX",
+                    "symbol": "BKX",
+                    "display_symbol": "SGX:BKX"
+                }
+            ],
+            "country_name": "Singapore",
+            "industry_code": 31050010,
+            "exchange_symbol": "SGX:BKX",
+            "yield_range": {
+                "high": "11.60",
+                "low": "0.91",
+                "current": "1.65",
+                "color": 846285
+            },
+            "payout_range": {
+                "high": "2.90",
+                "low": "0.07",
+                "current": "0.11",
+                "color": 846285
+            },
+            "shareso": "88.75",
+            "perange": {
+                "high": "83.33",
+                "low": "2.14",
+                "current": "6.65",
+                "color": 413063
+            },
+            "psrange": {
+                "high": "0.69",
+                "low": "0.15",
+                "current": "0.36",
+                "color": "24372d"
+            },
+            "pbrange": {
+                "high": "0.86",
+                "low": "0.18",
+                "current": "0.31",
+                "color": "563b17"
+            },
+            "price52wrange": {
+                "high": "0.800000",
+                "low": "0.545000",
+                "current": 0.605,
+                "color": "1C5990"
+            },
+            "pabove52wlow": 11.01,
+            "pbelow52whigh": 24.38,
+            "currency_symbol": "<span style=\"font-size: 10px\">SGD</span> ",
+            "above52wlow": "11%",
+            "valuedcf": 0,
+            "discountdcf": null,
+            "valuee": 0,
+            "discounte": null,
+            "valueddm": 0,
+            "discountddm": null,
+            "offlow": 11.01,
+            "offhigh": 24.38,
+            "52woffhigh": 24.4,
+            "3yoffhigh": 32.8,
+            "5yoffhigh": 59.7,
+            "display_country": "Singapore",
+            "region": "A",
+            "display_timestamp": "2024-08-30 01:00:00 (EDT)",
+            "rank_financial_strength": 5,
+            "display_symbol_region": "BKX.Singapore",
+            "is_otc": 0,
+            "is_spin_off": false,
+            "industry_detail": {
+                "date": "999999",
+                "sector": "Industrials",
+                "sectorcode": 310,
+                "group": "Farm & Heavy Construction Machinery",
+                "groupcode": 31050,
+                "industry": "Farm & Heavy Construction Machinery",
+                "industrycode": 31050010,
+                "supersector": "Sensitive"
+            },
+            "description": {
+                "descrpt": "Yongmao Holdings Ltd is involved in the design, development, and manufacture of a wide range of tower cranes, components, and accessories. The products are mainly sold to construction equipment distributors and equipment rental companies. Yongmao Holdings offers tower cranes with various lifting capacities that include the Topless STT series, ST series, Luffing STL series, and Derrick Q series. The business of the company is classified under geographical segments the People's Republic of China, Hong Kong and Macau, and Singapore. The People's Republic of China segment generates maximum revenue for the company which represents the manufacture and sale, with some rental and servicing of tower cranes and tower crane components and accessories in China.",
+                "website": "http://www.yongmaoholdings.com",
+                "address": "81 Ubi Avenue 4, No. 09-01 UB. One, Singapore, SGP, 408830",
+                "short_descript": "Yongmao Holdings Ltd is engaged in manufacture and sale, with some rental and servicing of towercranes and towercrane components and accessories."
+            },
+            "0": "Yongmao Holdings Ltd",
+            "1": 0,
+            "2": 0.605,
+            "20-Day Bollinger Upper Band (SMA+2*STDEV)": 0.6,
+            "20-Day Bollinger Lower Band (SMA-2*STDEV)": 0.58,
+            "Price-to-20-Day-Bollinger-Upper-Band (SMA+2*STDEV)": 1,
+            "Price-to-20-Day-Bollinger-Lower-Band (SMA-2*STDEV)": 1.04
+        },
+        "estimate": {
+            "count": 0,
+            "percentage": 0,
+            "quarter": [],
+            "Revenue": [],
+            "per share eps": [],
+            "eps_nri": [],
+            "Dividends Per Share": [],
+            "Operating Cash Flow per Share": [],
+            "Book Value per Share": [],
+            "Net Income": [],
+            "EBIT": [],
+            "EBITDA": [],
+            "Pretax Income": [],
+            "Gross Margin %": [],
+            "ROA %": [],
+            "ROE %": [],
+            "future_revenue_estimate_growth": "0.00%",
+            "future_per_share_eps_estimate_growth": "0.00%",
+            "future_eps_nri_estimate_growth": "0.00%",
+            "future_dividend_estimate_growth": "0.00%",
+            "future_operating_cash_flow_per_share_estimate_growth": "0.00%",
+            "future_book_value_per_share_estimate_growth": "0.00%",
+            "future_net_income_estimate_growth": "0.00%",
+            "future_ebit_estimate_growth": "0.00%",
+            "future_ebitda_estimate_growth": "0.00%",
+            "future_pretax_income_estimate_growth": "0.00%",
+            "future_gross_margin_estimate_growth": "0.00%",
+            "future_roa_estimate_growth": "0.00%",
+            "future_roe_estimate_growth": "0.00%",
+            "LongTermGrowthRateMean": "0.00%",
+            "LongTermRevenueGrowthRateMean": "0.00%"
+        }
+    }
+}
